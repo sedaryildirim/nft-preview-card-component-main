@@ -65,7 +65,9 @@
   /* Creator info */
   .creator {
     display: flex;
+    justify-content: center;
     align-items: center;
+    text-align: left;
     border-top: 1px solid #2f415b;
     padding-top: 16px;
   }
@@ -80,6 +82,7 @@
   
   .creator p {
     color: #8bacda;
+    margin-bottom: 0;
   }
   
   .creator span {
