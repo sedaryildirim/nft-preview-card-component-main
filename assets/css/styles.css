@@ -65,7 +65,7 @@
   /* Creator info */
   .creator {
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     text-align: left;
     border-top: 1px solid #2f415b;
     padding-top: 16px;
